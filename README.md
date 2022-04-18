@@ -20,6 +20,6 @@
 
 ### [w08 - README.md](https://as718296.github.io/1102-1N-JavaScript-210410469/README.md)
 
-### [guess-starter-210410196](https://1102-1-n-java-script-210410196.vercel.app/project/guess-starter-210410196/)
+### [guess-starter-210410469](https://as718296.github.io/1102-1N-JavaScript-210410469/demo/w05/guess-starter-69/index.html)
 
-### [omnifood-210410196](https://1102-1-n-java-script-210410196.vercel.app/project/omnifood-210410196/dist/)
+### [omnifood-210410196](https://as718296.github.io/1102-1N-JavaScript-210410469/omnifood_210410469/)
