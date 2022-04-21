@@ -22,4 +22,10 @@
 
 ### [guess-starter-210410469](https://as718296.github.io/1102-1N-JavaScript-210410469/demo/w05/guess-starter-69/index.html)
 
-### [omnifood-210410196](https://as718296.github.io/1102-1N-JavaScript-210410469/omnifood_210410469/)
+### [omnifood-210410469](https://as718296.github.io/1102-1N-JavaScript-210410469/omnifood_210410469/)
+
+### [Midprep P1_69 answer](https://as718296.github.io/1102-1N-JavaScript-210410469/demo/w09/midprep_stud_69/p1_69/p1_69.html)
+
+### [W09 Midprep P2_69 answer](https://as718296.github.io/1102-1N-JavaScript-210410469/demo/w09/midprep_stud_69/p2_69/p2_69.html)
+
+### [W09 Midprep P3_69 answer](https://as718296.github.io/1102-1N-JavaScript-210410469/demo/w09/midprep_stud_69/p3_69/p3_69.html)
